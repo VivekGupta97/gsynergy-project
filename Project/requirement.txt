@@ -1,0 +1,5 @@
+pandas
+sqlalchemy
+boto3  # For AWS S3
+psycopg2  # For PostgreSQL connection
+pyyaml
